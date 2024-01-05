@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello World"
+echo "You have successfully pushed image via github actions"
